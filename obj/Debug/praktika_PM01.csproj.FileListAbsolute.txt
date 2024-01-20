@@ -1,0 +1,50 @@
+C:\Программный модуль на практику пм01\praktika_PM01\bin\Debug\praktika_PM01.exe.config
+C:\Программный модуль на практику пм01\praktika_PM01\bin\Debug\praktika_PM01.exe
+C:\Программный модуль на практику пм01\praktika_PM01\bin\Debug\praktika_PM01.pdb
+C:\Программный модуль на практику пм01\praktika_PM01\obj\Debug\praktika_PM01.csproj.AssemblyReference.cache
+C:\Программный модуль на практику пм01\praktika_PM01\obj\Debug\praktika_PM01.csproj.SuggestedBindingRedirects.cache
+C:\Программный модуль на практику пм01\praktika_PM01\obj\Debug\praktika_PM01.LogIn.resources
+C:\Программный модуль на практику пм01\praktika_PM01\obj\Debug\praktika_PM01.MainWindow.resources
+C:\Программный модуль на практику пм01\praktika_PM01\obj\Debug\praktika_PM01.Properties.Resources.resources
+C:\Программный модуль на практику пм01\praktika_PM01\obj\Debug\praktika_PM01.SignUp.resources
+C:\Программный модуль на практику пм01\praktika_PM01\obj\Debug\praktika_PM01.csproj.GenerateResource.cache
+C:\Программный модуль на практику пм01\praktika_PM01\obj\Debug\praktika_PM01.csproj.CoreCompileInputs.cache
+C:\Программный модуль на практику пм01\praktika_PM01\obj\Debug\praktika_PM01.exe
+C:\Программный модуль на практику пм01\praktika_PM01\obj\Debug\praktika_PM01.pdb
+C:\Программный модуль на практику пм01\praktika_PM01\obj\Debug\praktika_PM01.Curators.resources
+C:\Программный модуль на практику пм01\praktika_PM01\obj\Debug\praktika_PM01.Events.resources
+C:\Программный модуль на практику пм01\praktika_PM01\obj\Debug\praktika_PM01.Positions.resources
+C:\Программный модуль на практику пм01\praktika_PM01\obj\Debug\praktika_PM01.Teams.resources
+C:\Программный модуль на практику пм01\praktika_PM01\bin\Debug\Microsoft.OData.Edm.dll
+C:\Программный модуль на практику пм01\praktika_PM01\bin\Debug\Microsoft.OData.Edm.xml
+C:\Программный модуль на практику пм01\praktika_PM01\obj\Debug\praktika_PM01.csproj.CopyComplete
+C:\Программный модуль на практику пм01\praktika_PM01\bin\Debug\senina_youth_centre.mdf
+C:\Программный модуль на практику пм01\praktika_PM01\bin\Debug\senina_youth_centre_log.ldf
+C:\Программный модуль на практику пм01\praktika_PM01\bin\Debug\senina_youth_centreDataSet.Designer.cs
+C:\Программный модуль на практику пм01\praktika_PM01\bin\Debug\senina_youth_centreDataSet.xsc
+C:\Программный модуль на практику пм01\praktika_PM01\bin\Debug\senina_youth_centreDataSet.xsd
+C:\Программный модуль на практику пм01\praktika_PM01\bin\Debug\senina_youth_centreDataSet.xss
+Z:\ПРОЕКТЫ\program\bin\Debug\senina_youth_centre.mdf
+Z:\ПРОЕКТЫ\program\bin\Debug\senina_youth_centre_log.ldf
+Z:\ПРОЕКТЫ\program\bin\Debug\senina_youth_centreDataSet.Designer.cs
+Z:\ПРОЕКТЫ\program\bin\Debug\senina_youth_centreDataSet.xsc
+Z:\ПРОЕКТЫ\program\bin\Debug\senina_youth_centreDataSet.xsd
+Z:\ПРОЕКТЫ\program\bin\Debug\senina_youth_centreDataSet.xss
+Z:\ПРОЕКТЫ\program\bin\Debug\praktika_PM01.exe.config
+Z:\ПРОЕКТЫ\program\bin\Debug\praktika_PM01.exe
+Z:\ПРОЕКТЫ\program\bin\Debug\praktika_PM01.pdb
+Z:\ПРОЕКТЫ\program\bin\Debug\Microsoft.OData.Edm.xml
+Z:\ПРОЕКТЫ\program\obj\Debug\praktika_PM01.csproj.AssemblyReference.cache
+Z:\ПРОЕКТЫ\program\obj\Debug\praktika_PM01.Curators.resources
+Z:\ПРОЕКТЫ\program\obj\Debug\praktika_PM01.Events.resources
+Z:\ПРОЕКТЫ\program\obj\Debug\praktika_PM01.LogIn.resources
+Z:\ПРОЕКТЫ\program\obj\Debug\praktika_PM01.MainWindow.resources
+Z:\ПРОЕКТЫ\program\obj\Debug\praktika_PM01.Positions.resources
+Z:\ПРОЕКТЫ\program\obj\Debug\praktika_PM01.Properties.Resources.resources
+Z:\ПРОЕКТЫ\program\obj\Debug\praktika_PM01.SignUp.resources
+Z:\ПРОЕКТЫ\program\obj\Debug\praktika_PM01.Teams.resources
+Z:\ПРОЕКТЫ\program\obj\Debug\praktika_PM01.csproj.GenerateResource.cache
+Z:\ПРОЕКТЫ\program\obj\Debug\praktika_PM01.csproj.CoreCompileInputs.cache
+Z:\ПРОЕКТЫ\program\obj\Debug\praktika_PM01.csproj.CopyComplete
+Z:\ПРОЕКТЫ\program\obj\Debug\praktika_PM01.exe
+Z:\ПРОЕКТЫ\program\obj\Debug\praktika_PM01.pdb
